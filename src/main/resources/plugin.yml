@@ -1,0 +1,5 @@
+main: xyz.whynospaces.MysteryChest
+name: MysteryChest
+author: Spaces
+version: 1.0-SNAPSHOT
+depends: [Vault, ProtocolLib]

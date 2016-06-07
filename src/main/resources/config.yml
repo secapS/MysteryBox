@@ -1,0 +1,5 @@
+scroller-timer: 10
+price: 0
+broadcast-on: true
+broadcast-msg: &aPLAYER_NAME just won a ITEM_NAME
+items:
